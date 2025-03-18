@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #ff2a2a;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ff0808;
     font-weight: 600;
 }
 
@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/flor.pn') top right no-repeat,
+        url('img/flor-esquerda.p') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #d10d0d;
     border: none;
     font-weight: bold;
 }
